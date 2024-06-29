@@ -1,5 +1,3 @@
-# Pratikum 7-Praktikum
-
-## Azis Nurrahman Septian
-
-21000161101
+# Pratikum 7
+Hardicka Faturrahman Nugradiono
+2100016084
